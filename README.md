@@ -70,6 +70,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+
 * redes sociales (...) 
 
 * publicidad: banner (... ) 
@@ -90,6 +92,18 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 ### Conclusiones y trabajo futuro
 
 
+* Grado de consecución del proyecto 
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+* Propuestas de mejora (por qué consideras que merece la pena continuar)
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+
+
+Referencias y recursos: 
+
+* Artículos ..  
+* Productos utilizados  
+* Propuestas de me
+
 (...)
 
 
@@ -106,6 +120,12 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
 * (...) 
+
+(...)
+* (Artículos ..  )
+* (Productos utilizados ) 
+* (Recursos tipo Imágenes, videos , etc.) 
+
 
 
 
