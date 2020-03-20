@@ -1,4 +1,4 @@
-## (Nombre del proyecto) 
+## (Nombre del proyecto)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,21 +9,23 @@ Univesidad de Granada
 
 ----
 
-Titulo del proyecto: _______
+**Titulo** : _______
 
-Autor(es): ______________
+**Autor(es)** ______________
 
-Resumen de la propuesta: _________
+**Resumen** : _________
 
-Imagen / logotipo:  ________
+**logotipo** :  ________
 
-Slogan / frase motivadora/inspiradora: ________
+**Slogan** (frase motivadora/inspiradora): ________
 
-Hashtag: ___
+**Hashtag**  ___
 
-Licencia del proyecto:   (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-Medios (donde se tiene presencia): 
+**Fecha** : ....
+
+**Medios** (donde se tiene presencia): 
 
 
 *  :octocat: (github url) 
@@ -40,22 +42,22 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello
+Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-** Investigación de campo / Desk research ** (propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
 * @LadyDistopia (link) ...¿ por qué ?
 * (...)
 * 
 
 
-** Necesidad / oportunidad ** 
+**Necesidad/oportunidad** 
 
-** Motivación de la propuesta ** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
-** Personas / usuarios **  ¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo? 
+**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
-** estilo de narración  *** (indica como se hace uso de los medios)  
+**Estilo de narración**  (...indica como se hace uso de los medios)  
 
 (ejemplos/alternativas) 
 * documental interactivo 
@@ -72,7 +74,7 @@ Actividades realizadas mediante Trello
 
 * publicidad: banner (... ) 
 
-
+* ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -85,20 +87,25 @@ Actividades realizadas mediante Trello
 
 
 
-
 ### Conclusiones y trabajo futuro
+
+
+(...)
+
+
+
+
 
 
 ----
 
+**Referencias y recursos utilizados** :
 
-Referencias: 
-- [Proceso UX](https://uxmastery.com/resources/process/)
-- [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-- [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-- [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-
-
+* [Proceso UX](https://uxmastery.com/resources/process/)
+* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
+* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
+* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
+* (...) 
 
 
 
