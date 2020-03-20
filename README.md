@@ -23,7 +23,7 @@ Univesidad de Granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : ....
+**Fecha** : 2020
 
 **Medios** (donde se tiene presencia): 
 
