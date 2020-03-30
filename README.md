@@ -8,17 +8,16 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Podenco Tour
 
-**Autor(es)** ______________
+**Autor(es)** Carlos Rodríguez Urra
 
-**Resumen** : _________
-
+**Resumen** : Ponco, un perro de raza podenco andaluz adoptado por un estudiante de máster, está muy aburrido en su piso. Se queja de que su dueño ya no es el mismo muchacho de siempre, puesto que antes solían salir juntos a recorrer Granada. Si bien Ponco entiende que su dueño debe atender responsabilidades, se siente llamado a seguir recorriendo más lugares, pero esta vez los pueblos que componen la Provincia de Granada, debido a que su dueño Manuel se lo prometió pero no lo ha cumplido. Es entonces que, una vez que Ponco conoce al usuario que interaccionará con él (quien asiste a la casa de Manuel para hacer un trabajo académico), logra convencerlo en dejarlo libre y comienza la aventura.
 **logotipo** :  ________
 
 **Slogan** (frase motivadora/inspiradora): ________
 
-**Hashtag**  ___
+**Hashtag** : #PoncoPodenco
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -26,12 +25,11 @@ Univesidad de Granada
 
 **Medios** (donde se tiene presencia): 
 
+Instagram
 
-*  :octocat: (github url) 
-* Twitter 
-* ... 
+Facebook
 
-
+Twitter
 
 --- 
 
@@ -45,7 +43,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
+* Una de las inspiraciones consta de las aventuras de Carmen Sandiego, videojuego basado en novela gráfica que se presentaba ante el usuario y proponía ir en búsqueda de un personaje por diversos lugares de todo el mundo. 
+
 * (...)
 * 
 
@@ -59,7 +58,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
 (ejemplos/alternativas) 
-* documental interactivo 
+* Novela gráfica 
 * videojuego 
 * ... 
 
