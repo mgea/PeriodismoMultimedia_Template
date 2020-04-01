@@ -12,12 +12,12 @@ Univesidad de Granada
 
 **Autor(es)** Carlos Rodríguez Urra
 
-**Resumen** : Ponco, un perro de raza podenco andaluz adoptado por un estudiante de máster, está muy aburrido en su piso. Se queja de que su dueño ya no es el mismo muchacho de siempre, puesto que antes solían salir juntos a recorrer Granada. Si bien Ponco entiende que su dueño debe atender responsabilidades, se siente llamado a seguir recorriendo más lugares, pero esta vez los pueblos que componen la Provincia de Granada, debido a que su dueño Manuel se lo prometió pero no lo ha cumplido. Es entonces que, una vez que Ponco conoce al usuario que interaccionará con él (quien asiste a la casa de Manuel para hacer un trabajo académico), logra convencerlo en dejarlo libre y comienza la aventura.
+**Resumen** : Ponco, un perro de raza podenco andaluz adoptado por un estudiante de máster, está muy aburrido en su piso. Se queja de que su dueño ya no es el mismo muchacho de siempre, puesto que antes solían salir juntos a recorrer Granada. Si bien Ponco entiende que su dueño debe atender responsabilidades, se siente llamado a seguir recorriendo más lugares, pero esta vez los pueblos que componen la Provincia de Granada, debido a que su dueño Manuel se lo prometió pero no lo ha cumplido. Entonces, Ponco logra extorsionar a una visita del piso de Manuel y queda libre, gatillando una búsqueda frenética que hará recorrer diversos puntos desconocidos de la provincia granadina. 
+
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
-
-**Hashtag** : #PoncoPodenco
+**Slogan** (frase motivadora/inspiradora): ¡Ponco que te busco! 
+**Hashtag** : #PoncoPodenco #PodencoTour
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -45,24 +45,23 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * Una de las inspiraciones consta de las aventuras de Carmen Sandiego, videojuego basado en novela gráfica que se presentaba ante el usuario y proponía ir en búsqueda de un personaje por diversos lugares de todo el mundo. 
 
-* (...)
-* 
-
+* Además, lo interactivo también está basado un poco en lo que fue el insigne capítulo de Black Mirror Bandersnacht, el cuál el peso de la trama y las opciones elegidas sean percibidas por parte del receptor de la experiencia en sus diferentes grados (diversión, sorpresa, etc).
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** 
+
+* Hacer una propuesta de estas características resultará interesante para relevar la importancia de la identidad local, junto a la puesta en valor de aquellos inmuebles icónicos de cada área urbana que integra la provincia, del cuál se tienen poco conocimiento. Esto se llevará a cabo mediante una narrativa interactiva que tendrá un fin lúdico, a modo de presentar las informaciones de un modo más amigable y simpático, aprovechando los recursos audiovisuales y tecnológicos que existen. 
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
+El proyecto está pensando para el área infantil-juvenil, españoles como también personas de otros países que estén pensando en visitar Granada. 
+
+En tiempos de confinamiento, será útil también a modo de distracción y aprender sobre el entorno granadino. 
+
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
-(ejemplos/alternativas) 
-* Novela gráfica 
-* videojuego 
-* ... 
-
-
+El proyecto se sustentará en base a una novela gráfica que se desarrollará en Ren'pi, que dotará del carácter interactivo y de inmersión en la trama mediante animaciones y opciones a elegir.
 
 ### Etapa 2: Prototipar / productos 
 
