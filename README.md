@@ -14,7 +14,7 @@ Univesidad de Granada
 
 **Resumen** : Ponco, un perro de raza podenco andaluz adoptado por un estudiante de máster, está muy aburrido en su piso. Se queja de que su dueño ya no es el mismo muchacho de siempre, puesto que antes solían salir juntos a recorrer Granada. Si bien Ponco entiende que su dueño debe atender responsabilidades, se siente llamado a seguir recorriendo más lugares, pero esta vez los pueblos que componen la Provincia de Granada, debido a que su dueño Manuel se lo prometió pero no lo ha cumplido. Entonces, Ponco logra extorsionar a una visita del piso de Manuel y queda libre, gatillando una búsqueda frenética que hará recorrer diversos puntos desconocidos de la provincia granadina. 
 
-**logotipo** :  ________
+**logotipo** :  https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view?usp=sharing  
 
 
 **Slogan** (frase motivadora/inspiradora): ¡Ponco loco! 
@@ -71,7 +71,9 @@ El proyecto se sustentará en base a una novela gráfica que se desarrollará en
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-[url=https://subefotos.com/ver/?2150861fd684d88e7f283ad2bee2c519o.png][img]http://thumbs.subefotos.com/2150861fd684d88e7f283ad2bee2c519o.jpg[/img][/url]
+https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view?usp=sharing 
+
+https://www.youtube.com/watch?v=QhEG615syqM 
 
 * redes sociales (...) 
 
