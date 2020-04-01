@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## (PODENCO TOUR)  
 
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
@@ -70,6 +70,8 @@ El proyecto se sustentará en base a una novela gráfica que se desarrollará en
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+
+[url=https://subefotos.com/ver/?2150861fd684d88e7f283ad2bee2c519o.png][img]http://thumbs.subefotos.com/2150861fd684d88e7f283ad2bee2c519o.jpg[/img][/url]
 
 * redes sociales (...) 
 
