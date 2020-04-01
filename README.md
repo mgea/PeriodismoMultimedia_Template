@@ -16,7 +16,9 @@ Univesidad de Granada
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ¡Ponco que te busco! 
+
+**Slogan** (frase motivadora/inspiradora): ¡Ponco loco! 
+
 **Hashtag** : #PoncoPodenco #PodencoTour
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
