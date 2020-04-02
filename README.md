@@ -82,7 +82,7 @@ El proyecto se sustentará en base a una novela gráfica que se desarrollará en
 
 El estilo de la narración, si bien Ren'pi ofrece un entorno interactivo, este recurso sólo será utilizado en contadas ocaciones, puesto que se necesitaría más tiempo para desarrollar una iniciativa 100% interactiva. La interactividad estará presente en momentos clave como el comienzo de la trama (cuando uno debe decidir si liberar al perro de las casa o no), tomar algunos caminos en desmedro de otros en algún pueblo, y la decisión del final de la historia (este es el único que tendrá vías diferentes de resolución).
 
-La narración también irá acompañada de recursos gráficosa que serán subidos en redes sociales, tales como fotografías de lugares insignes de los pueblos y hablar muy resumidamente parte de la historia de éste, e incentivar a probar el juego.
+La narración también irá acompañada de recursos gráficos que serán subidos en redes sociales, tales como fotografías de lugares insignes de los pueblos y hablar muy resumidamente parte de la historia de éste, e incentivar a probar el juego.
 
 ### Etapa 2: Prototipar / productos 
 
@@ -94,16 +94,11 @@ Para crear el logo de la iniciativa, que también actúa como portada, se usó e
 
 https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view?usp=sharing 
 
-
-En tanto, el video introductorio de prueba de animación (que será un poco perfeccionado) fue utilizado en Toon Boom Harmony 15, Photoshop y After Effects.
+En tanto, en el video introductorio de animación fue utilizado en Toon Boom Harmony 15, Photoshop y After Effects.
 
 https://www.youtube.com/watch?v=QhEG615syqM 
 
-* redes sociales (...) 
-
-* publicidad: banner (... ) 
-
-* ...
+De momento no se han generado más elementos gráficos.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -115,7 +110,7 @@ Los indicadores de éxito se basará primariamente en que el usuario podrá avan
 
 Una vez superado este primer nivel teniendo en cuenta la opinión de los usuarios, se procederá a efectuar una "segunda mano" general relacionado a lo estético (definición de colores de las opciones, redimensión de las imágenes, subida de versión final de aspectos de los personajes, etc).
 
-Una vez concluída esta segunda fase, en la tercera procederemos resolver aquellos aspectos que se puedan corregir considerando el factor tiempo y que toman un poco más, ya sea creación de música propia de ambiente, inclusión de nuevas animaciones que reflejen los estados de ánimo de los personajes, más opciones que puedan desencadenar nuevas tramas secundarias, etc.
+Una vez concluida esta segunda fase, en la tercera procederemos resolver aquellos aspectos que se puedan corregir considerando el factor tiempo y que toman un poco más, ya sea creación de música propia de ambiente, inclusión de nuevas animaciones que reflejen los estados de ánimo de los personajes, más opciones que puedan desencadenar nuevas tramas secundarias, etc.
 
 
 ### Conclusiones y trabajo futuro
@@ -130,15 +125,19 @@ Una vez concluída esta segunda fase, en la tercera procederemos resolver aquell
 Referencias y recursos: 
 
 * Artículos ..  
-* Productos utilizados  
-* Propuestas de me
 
-(...)
+Procedí a la descarga del programa Ren'Py en su página oficial, además seguí parte de su documentación mediante el tutorial que ofrece en la interfaz.
+https://www.renpy.org/ 
 
+Seguí como referencia para la animación y añadir sombras, un video hecho por un animador profesional llamado gilanimation en Toon Boom Harmony 15 
 
+https://www.youtube.com/watch?v=3XKYfDQHGP8 
 
+* Productos utilizados 
 
+Inspiración de uso mediante proyecto generado anteriormente a modo de conocer la dinámica y codificación de un proyecto, cedido por el profesor Miguel Gea.
 
+https://consigna.ugr.es/f/OJIsnoD4xIpK51d9/HistoriaFCD-1.0-all.zip
 
 ----
 
