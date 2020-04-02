@@ -143,6 +143,10 @@ Opino que merece la pena continuar porque es un proyecto que es único en su esp
 
 A este proyecto pueden involiucrarse, una vez que gane consolidación, ilustradores para poder reemplazar las fotos de los lugares por dibujos para que haya concordancia por el carácter animado y ficticio de los personajes que son hechos a dibujo. Además de ello, pueden involucrarse periodistas y programadores para hilar la trama a límites insospechados y tener mayor alcance. Y por supuesto, contar con animadores cuyos estilos sean cartoon y 2D. 
 
+Además, considero que el proyecto puede resultar de mucho interés al mezclar conceptos como la interactividad y la identidad local. He estado investigando casos similares, y en lo personal he hallado muy poco y todo es referido a identidades de género o identidad de grupos de riesgo, pero no sobre localizaciones geográficas o de pueblos. Creo que abordar una aventura gráfica por pueblos es bastante llamativo porque eso te da lugar a conocer desde una perspectiva diferente las costumbres que existen los productos, hacer que el personaje recorra calles, en una combinación de lo ficcional con la realidad misma. 
+
+Este proyecto puede escalar a tal punto a futuro si se gana algún fondo de creación audiovisual, que incluso pueden involucrarse camarógrafos profesionales y especialistas en efectos especiales, además de dibujantes con trayectoria.
+
 Referencias y recursos: 
 
 * Artículos ..  
