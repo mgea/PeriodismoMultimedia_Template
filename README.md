@@ -90,7 +90,7 @@ La narración también irá acompañada de recursos gráficosa que serán subido
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-Para crear el logo de la iniciativa, que también actúa como logo, se usó el programa Photoshop.
+Para crear el logo de la iniciativa, que también actúa como portada, se usó el programa Photoshop.
 
 https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view?usp=sharing 
 
