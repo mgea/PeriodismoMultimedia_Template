@@ -60,7 +60,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* Una de las inspiraciones consta de las aventuras de Carmen Sandiego, videojuego basado en novela gráfica que se presentaba ante el usuario y proponía ir en búsqueda de un personaje por diversos lugares de todo el mundo. 
+* Una de las inspiraciones consta de las aventuras de Carmen Sandiego, videojuego basado en novela gráfica que se presentaba ante el usuario y proponía ir en búsqueda de un personaje por diversos lugares de todo el mundo. https://www.youtube.com/watch?v=JYb8H4klUeQ  
 
 * Además, lo interactivo también está basado un poco en lo que fue el insigne capítulo de Black Mirror Bandersnacht, el cuál el peso de la trama y las opciones elegidas sean percibidas por parte del receptor de la experiencia en sus diferentes grados (diversión, sorpresa, etc).
 
