@@ -162,6 +162,10 @@ Artículo "Educando en emociones: el uso de la narrativa interactiva" de Francis
 
 https://www.researchgate.net/publication/282647475_Educando_en_emociones_el_uso_de_la_narrativa_interactiva
 
+Reflexiones sobre el concepto de novela gráfica en entrevista a Juanjo Guarnido, dibujante 
+
+https://www.granadahoy.com/ocio/termino-novela-grafica-chorrada_0_1181881872.html 
+
 Guía de producción de dibujos animados en Toon Boom Harmony 15 
 
 https://docs.toonboom.com/help/harmony-15/premium/book/index.html
