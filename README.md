@@ -12,7 +12,7 @@ Univesidad de Granada
 
 **Autor(es)** Carlos Rodríguez Urra
 
-**Resumen** : Ponco, un perro de raza podenco andaluz adoptado por un estudiante de máster, está muy aburrido en su piso. Se queja de que su dueño ya no es el mismo muchacho de siempre, puesto que antes solían salir juntos a recorrer Granada. Si bien Ponco entiende que su dueño debe atender responsabilidades, se siente llamado a seguir recorriendo más lugares pero esta vez los pueblos que componen la Provincia de Granada, debido a que su dueño Manuel se lo prometió pero no lo ha cumplido. Entonces, Ponco logra convencer a una visita del piso de Manuel a que lo deje libre, gatillando una persecución y búsqueda frenética para encontrar al tierno perro andaluz que recorrerá diversos puntos desconocidos de la provincia granadina. 
+**Resumen** : Ponco, un perro de raza podenco andaluz adoptado por un estudiante de máster, está muy aburrido en su piso. Se queja de que su dueño ya no es el mismo muchacho de siempre, puesto que antes solían salir juntos a recorrer Granadan, en especial El Albaicín y la Alhambra. Si bien Ponco entiende que su dueño debe atender responsabilidades, se siente llamado a seguir recorriendo más lugares pero esta vez los pueblos que componen la Provincia de Granada, debido a que su dueño Manuel se lo prometió pero no lo ha cumplido. Entonces, Ponco logra convencer a una visita del piso de Manuel a que lo deje libre, gatillando una persecución y búsqueda frenética para encontrar al tierno perro andaluz que recorrerá diversos puntos desconocidos de la provincia granadina. 
 
 El producto final de esta experiencia, consiste en la creación de una novela gráfica interactiva mediante el programa Ren'py.
 
