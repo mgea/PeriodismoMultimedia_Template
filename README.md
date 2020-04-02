@@ -166,6 +166,13 @@ Artículo "Educando en emociones: el uso de la narrativa interactiva" de Francis
 
 https://www.researchgate.net/publication/282647475_Educando_en_emociones_el_uso_de_la_narrativa_interactiva
 
+Game Development with Ren'Py: Introduction to Visual Novel Games Using Ren'Py, TyranoBuilder, and Twine de Robert Ciesla.
+https://www.researchgate.net/publication/334110723_Game_Development_with_Ren%27Py_Introduction_to_Visual_Novel_Games_Using_Ren%27Py_TyranoBuilder_and_Twine
+
+Poetry as a Visual Novel – a Multimedia Project
+https://www.researchgate.net/publication/306083234_Poetry_as_a_Visual_Novel_-_a_Multimedia_Project/figures?lo=1&utm_source=google&utm_medium=organic 
+
+
 Reflexiones sobre el concepto de novela gráfica en entrevista a Juanjo Guarnido, dibujante 
 
 https://www.granadahoy.com/ocio/termino-novela-grafica-chorrada_0_1181881872.html 
