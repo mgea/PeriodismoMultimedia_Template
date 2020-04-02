@@ -116,7 +116,17 @@ Una vez concluida esta segunda fase, en la tercera procederemos resolver aquello
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
+* Grado de consecución del proyecto
+
+Se harán avances por cada día. Primero se procedió a ver los tutoriales de Renpy y análisis de un proyecto ya hecho con su codificación. Tras esto, se escribió el guión de lo que dicen los personajes en la primera mitad del proyecto y diversos caminos para continuar la historia, lo que ya ha tomado unas 6 páginas en word.
+
+Una vez concretada la animación inicial y el logo del proyecto, se dará paso a la programación de la interactividad mediante el ejemplo de un proyecto hecho anteriormente en la Facultad de Comunicación y Documentación.
+
+Tras este paso, se recolectarán fotografías e imágenes de los pueblos alojados en la web y se organizarán, además de bosquejar a los personajes en cuanto a emociones y la trayectoria de la trama, para luego darles una forma definitiva.
+
+Una vez terminado todo el proceso (en fase inicial sólo se contemplan 3 pueblos), el proyecto será lanzado en su fase beta y testeado por 10 personas, además de ser esta version evaluada por el docente (por el factor tiempo, no podrá ser incluido más lugares).
+
+Después de la fase de evaluación, se seguirá este proyecto hasta completar al menos 6 pueblos, con más personas y más animaciones, aprovechando la etapa de confinamiento que hay en España y poder lanzar este producto para que cualquier persona pueda disfrutarlo en algún rato libre. 
 
 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
