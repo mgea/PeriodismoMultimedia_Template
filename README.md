@@ -137,13 +137,15 @@ Uno de los aspectos que no me gustaron de Renpy consta de que no permite subir g
 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 
-Opino que merece la pena continuar porque es un proyecto que es único en su especie. Cuando lo pensé, sonaba bastante ambiocioso pero además bastante trabajólico. Sin embargo, tengo muy presente que todas las limitaciones están en la mente y uno puede hacer lo que desee con los proyectos que uno genere siempre y cuando haya una consecusión de objetivos a cumplir y existan avances. Además, hay muchas herramientas que existen hoy en día referentes a animación, incluso de acceso para cualquier presupuesto, pero he visto que no hay suficientes iniciativas que tengan estos soportes. Generalmente se trabaja en equipos para poder generar estas propuestas, sin embargo tengo la convicción de que es posible innovar no necesariamente con un equipo grande, o estando incluso sólo.
+Opino que merece la pena continuar porque es un proyecto que es único en su especie. Cuando lo pensé, sonaba bastante ambiocioso pero además bastante trabajólico. Sin embargo, el tamaño del proyecto es relativamente pequeño y se publicará una fase experimental como producto final, así que se podrá cumplir. Además, hay muchas herramientas que existen hoy en día referentes a animación, incluso de acceso para cualquier presupuesto, pero he visto que no hay suficientes iniciativas que tengan estos soportes. Generalmente se trabaja en equipos para poder generar estas propuestas, sin embargo tengo la convicción de que es posible innovar no necesariamente con un equipo grande, o estando incluso sólo.
 
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
-A este proyecto pueden involiucrarse, una vez que gane consolidación, ilustradores para poder reemplazar las fotos de los lugares por dibujos para que haya concordancia por el carácter animado y ficticio de los personajes que son hechos a dibujo. Además de ello, pueden involucrarse periodistas y programadores para hilar la trama a límites insospechados y tener mayor alcance. Y por supuesto, contar con animadores cuyos estilos sean cartoon y 2D. 
+A este proyecto pueden involucrarse, una vez que gane consolidación, ilustradores para poder reemplazar las fotos de los lugares por dibujos para que haya concordancia por el carácter animado y ficticio de los personajes que son hechos a dibujo. Además de ello, pueden involucrarse periodistas y programadores para hilar la trama a límites insospechados y tener mayor alcance. Y por supuesto, contar con animadores cuyos estilos sean cartoon y 2D. 
 
 Además, considero que el proyecto puede resultar de mucho interés al mezclar conceptos como la interactividad y la identidad local. He estado investigando casos similares, y en lo personal he hallado muy poco y todo es referido a identidades de género o identidad de grupos de riesgo, pero no sobre localizaciones geográficas o de pueblos. Creo que abordar una aventura gráfica por pueblos es bastante llamativo porque eso te da lugar a conocer desde una perspectiva diferente las costumbres que existen los productos, hacer que el personaje recorra calles, en una combinación de lo ficcional con la realidad misma. 
+
+Dada la temática y rescate de la identidad local mezclando procesos creativos, el proyecto tiene potencial para postular a fondos de financiamiento públicos.
 
 Este proyecto puede escalar a tal punto a futuro si se gana algún fondo de creación audiovisual, que incluso pueden involucrarse camarógrafos profesionales y especialistas en efectos especiales, además de dibujantes con trayectoria.
 
@@ -186,8 +188,6 @@ https://docs.toonboom.com/help/harmony-15/premium/book/index.html
 Inspiración de uso mediante proyecto generado anteriormente a modo de conocer la dinámica y codificación de un proyecto en Ren'py, cedido por el profesor Miguel Gea.
 
 https://consigna.ugr.es/f/OJIsnoD4xIpK51d9/HistoriaFCD-1.0-all.zip
-
-
 
 ----
 
