@@ -23,10 +23,8 @@ Univesidad de Granada
 
 **Licencia**   
 
-Reconocimiento-NoComercial-SinObraDerivada
+- Reconocimiento – NoComercial – CompartirIgual (by-nc-sa)
 CC BY-NC-ND
-
-Esta licencia es la más restrictiva de las seis licencias principales, sólo permite que otros puedan descargar las obras y compartirlas con otras personas, siempre que se reconozca su autoría, pero no se pueden cambiar de ninguna manera ni se pueden utilizar comercialmente. 
 
 **Fecha** : 2020
 
