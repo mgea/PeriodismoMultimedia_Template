@@ -141,11 +141,17 @@ Artículo "Educando en emociones: el uso de la narrativa interactiva" de Francis
 
 https://www.researchgate.net/publication/282647475_Educando_en_emociones_el_uso_de_la_narrativa_interactiva
 
+Guía de producción de dibujos animados en Toon Boom Harmony 15 
+
+https://docs.toonboom.com/help/harmony-15/premium/book/index.html
+
 * Productos utilizados 
 
 Inspiración de uso mediante proyecto generado anteriormente a modo de conocer la dinámica y codificación de un proyecto en Ren'py, cedido por el profesor Miguel Gea.
 
 https://consigna.ugr.es/f/OJIsnoD4xIpK51d9/HistoriaFCD-1.0-all.zip
+
+
 
 ----
 
@@ -161,15 +167,5 @@ https://consigna.ugr.es/f/OJIsnoD4xIpK51d9/HistoriaFCD-1.0-all.zip
 * (Artículos ..  )
 * (Productos utilizados ) 
 * (Recursos tipo Imágenes, videos , etc.) 
-
-
-
-
-
-
-
-
-
-
 
 
