@@ -12,7 +12,7 @@ Univesidad de Granada
 
 **Autor(es)** Carlos Rodríguez Urra
 
-**Resumen** : Ponco, un perro de raza podenco andaluz adoptado por un estudiante de máster, está muy aburrido en su piso. Se queja de que su dueño ya no es el mismo muchacho de siempre, puesto que antes solían salir juntos a recorrer Granada. Si bien Ponco entiende que su dueño debe atender responsabilidades, se siente llamado a seguir recorriendo más lugares, pero esta vez los pueblos que componen la Provincia de Granada, debido a que su dueño Manuel se lo prometió pero no lo ha cumplido. Entonces, Ponco logra extorsionar a una visita del piso de Manuel y queda libre, gatillando una búsqueda frenética que hará recorrer diversos puntos desconocidos de la provincia granadina. 
+**Resumen** : Ponco, un perro de raza podenco andaluz adoptado por un estudiante de máster, está muy aburrido en su piso. Se queja de que su dueño ya no es el mismo muchacho de siempre, puesto que antes solían salir juntos a recorrer Granada. Si bien Ponco entiende que su dueño debe atender responsabilidades, se siente llamado a seguir recorriendo más lugares pero esta vez los pueblos que componen la Provincia de Granada, debido a que su dueño Manuel se lo prometió pero no lo ha cumplido. Entonces, Ponco logra extorsionar a una visita del piso de Manuel y queda libre, gatillando una persecución y búsqueda frenética para encontrar al tierno perro andaluz que hará recorrer diversos puntos desconocidos de la provincia granadina. 
 
 **logotipo** :  https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view?usp=sharing  
 
@@ -21,7 +21,12 @@ Univesidad de Granada
 
 **Hashtag** : #PoncoPodenco #PodencoTour
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**   
+
+Reconocimiento-NoComercial-SinObraDerivada
+CC BY-NC-ND
+
+Esta licencia es la más restrictiva de las seis licencias principales, sólo permite que otros puedan descargar las obras y compartirlas con otras personas, siempre que se reconozca su autoría, pero no se pueden cambiar de ninguna manera ni se pueden utilizar comercialmente. 
 
 **Fecha** : 2020
 
@@ -32,6 +37,8 @@ Instagram
 Facebook
 
 Twitter
+
+Youtube (aquí se subirá trailer promocional o introducción)
 
 --- 
 
@@ -63,7 +70,11 @@ En tiempos de confinamiento, será útil también a modo de distracción y apren
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
-El proyecto se sustentará en base a una novela gráfica que se desarrollará en Ren'pi, que dotará del carácter interactivo y de inmersión en la trama mediante animaciones y opciones a elegir.
+El proyecto se sustentará en base a una novela gráfica que se desarrollará en Ren'pi, que dotará del carácter interactivo y de inmersión en la trama mediante pequeñas animaciones, ilustraciones varias que reflejen las emociones de los personajes.
+
+El estilo de la narración, si bien Ren'pi ofrece un entorno interactivo, este recurso sólo será utilizado en contadas ocaciones, puesto que se necesitaría más tiempo para desarrollar una iniciativa 100% interactiva. La interactividad estará presente en momentos clave como el comienzo de la trama (cuando uno debe decidir si liberar al perro de las casa o no), tomar algunos caminos en desmedro de otros en algún pueblo, y la decisión del final de la historia (este es el único que tendrá vías diferentes de resolución).
+
+La narración también irá acompañada de recursos gráficosa que serán subidos en redes sociales, tales como fotografías de lugares insignes de los pueblos y hablar muy resumidamente parte de la historia de éste, e incentivar a probar el juego.
 
 ### Etapa 2: Prototipar / productos 
 
@@ -71,7 +82,12 @@ El proyecto se sustentará en base a una novela gráfica que se desarrollará en
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
+Para crear el logo de la iniciativa, que también actúa como logo, se usó el programa Photoshop.
+
 https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view?usp=sharing 
+
+
+En tanto, el video introductorio de prueba de animación (que será un poco perfeccionado) fue utilizado en Toon Boom Harmony 15, Photoshop y After Effects.
 
 https://www.youtube.com/watch?v=QhEG615syqM 
 
@@ -85,11 +101,13 @@ https://www.youtube.com/watch?v=QhEG615syqM
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
+Una vez que se tenga el producto en su versión 1.0 (Con las respuestas esenciales, con la trama subida, con imágenes prototipo de personajes, opciones interactivos y música preliminares), se procederá a liberar el producto en la comunidad que poseo en Youtube y Facebook de mi seudónimo KyroAtelerix, entonces por lo menos sí habrán personas (mínimo unas 10) que prueben el producto y me darán retroalimentaciones sobre lo probado.
 
+Los indicadores de éxito se basará primariamente en que el usuario podrá avanzar en la historia de forma natural, haciendo que pueda disfrutar de la experiencia y los rasgos técnicos estén solucionados.
 
+Una vez superado este primer nivel teniendo en cuenta la opinión de los usuarios, se procederá a efectuar una "segunda mano" general relacionado a lo estético (definición de colores de las opciones, redimensión de las imágenes, subida de versión final de aspectos de los personajes, etc).
 
+Una vez concluída esta segunda fase, en la tercera procederemos resolver aquellos aspectos que se puedan corregir considerando el factor tiempo y que toman un poco más, ya sea creación de música propia de ambiente, inclusión de nuevas animaciones que reflejen los estados de ánimo de los personajes, más opciones que puedan desencadenar nuevas tramas secundarias, etc.
 
 
 ### Conclusiones y trabajo futuro
