@@ -133,9 +133,17 @@ Seguí como referencia para la animación y añadir sombras, un video hecho por 
 
 https://www.youtube.com/watch?v=3XKYfDQHGP8 
 
+Artículo "El cuento multimedia interactivo (The interactive multimedia story)" de Santiago Tejedor Calvo y  José María Perceval
+
+https://www.researchgate.net/publication/28222760_El_cuento_multimedia_interactivo_The_interactive_multimedia_story 
+
+Artículo "Educando en emociones: el uso de la narrativa interactiva" de Francisco Luis Gutiérrez Vela, Patricia Paderewski-Rodríguez, J.R. López-Arcos, Natalia Padilla-Zea y Marta Noemi fuentes 
+
+https://www.researchgate.net/publication/282647475_Educando_en_emociones_el_uso_de_la_narrativa_interactiva
+
 * Productos utilizados 
 
-Inspiración de uso mediante proyecto generado anteriormente a modo de conocer la dinámica y codificación de un proyecto, cedido por el profesor Miguel Gea.
+Inspiración de uso mediante proyecto generado anteriormente a modo de conocer la dinámica y codificación de un proyecto en Ren'py, cedido por el profesor Miguel Gea.
 
 https://consigna.ugr.es/f/OJIsnoD4xIpK51d9/HistoriaFCD-1.0-all.zip
 
