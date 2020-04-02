@@ -17,7 +17,7 @@ Univesidad de Granada
 **logotipo** :  https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view?usp=sharing  
 
 
-**Slogan** (frase motivadora/inspiradora): ¡Ponco loco! 
+**Slogan** (frase motivadora/inspiradora): ¡Ponco, no te escapes a lo loco!
 
 **Hashtag** : #PoncoPodenco #PodencoTour
 
