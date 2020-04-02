@@ -14,6 +14,8 @@ Univesidad de Granada
 
 **Resumen** : Ponco, un perro de raza podenco andaluz adoptado por un estudiante de máster, está muy aburrido en su piso. Se queja de que su dueño ya no es el mismo muchacho de siempre, puesto que antes solían salir juntos a recorrer Granada. Si bien Ponco entiende que su dueño debe atender responsabilidades, se siente llamado a seguir recorriendo más lugares pero esta vez los pueblos que componen la Provincia de Granada, debido a que su dueño Manuel se lo prometió pero no lo ha cumplido. Entonces, Ponco logra convencer a una visita del piso de Manuel a que lo deje libre, gatillando una persecución y búsqueda frenética para encontrar al tierno perro andaluz que recorrerá diversos puntos desconocidos de la provincia granadina. 
 
+El producto final de esta experiencia, consiste en la creación de una novela gráfica interactiva mediante el programa Ren'py.
+
 **logotipo** :  https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view?usp=sharing  
 
 
