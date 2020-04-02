@@ -150,7 +150,7 @@ Referencias y recursos:
 Procedí a la descarga del programa Ren'Py en su página oficial, además seguí parte de su documentación mediante el tutorial que ofrece en la interfaz.
 https://www.renpy.org/ 
 
-Seguí como referencia para la animación y añadir sombras, un video hecho por un animador profesional llamado gilanimation en Toon Boom Harmony 15 
+Seguí como referencia para la animación y añadir sombras del video introductorio (cuyo enlace está al comienzo de este documento), un video hecho por un animador profesional llamado gilanimation en Toon Boom Harmony 15 
 
 https://www.youtube.com/watch?v=3XKYfDQHGP8 
 
