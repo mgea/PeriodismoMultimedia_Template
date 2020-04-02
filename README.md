@@ -34,11 +34,19 @@ Esta licencia es la más restrictiva de las seis licencias principales, sólo pe
 
 Instagram
 
+https://www.instagram.com/podencotour/
+
 Facebook
+
+https://www.facebook.com/Podenco-Tour-110686673920399 
 
 Twitter
 
-Youtube (aquí se subirá trailer promocional o introducción)
+https://twitter.com/poncopodenco
+
+Youtube (aquí se subirá trailer promocional o introducción, es una cuenta de mi marca personal)
+
+https://www.youtube.com/kyroatelerix
 
 --- 
 
