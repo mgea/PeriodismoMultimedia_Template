@@ -117,10 +117,21 @@ Una vez concluida esta segunda fase, en la tercera procederemos resolver aquello
 
 
 * Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+
+
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
+
+Al aprender sobre Ren'Py, me he percatado que tiene un lenguaje basado en Python que si bien ante el usuario busca ser amigable, para mí en lo personal ha sido un poco lenta la curva de aprendizaje porque no me he familiarizado mucho con el uso de códigos, entonces he tenido que familiarizarme en el intertanto.
+
+Uno de los aspectos que no me gustaron de Renpy consta de que no permite subir gifs. Este es un punto en contra, puesto que yo tenía presupuestado subir pequeños loops de animaciones de los personajes que estarán presentes en la narrativa. Sin embargo y a pesar de esto, el programa sí permite subir videos. Entonces, estaba pensando como modo de salvaguardar este detalle es el subir videos bastante comprimidos en relación al peso del archivo, para que en cada escena en el propio video esté contenido tanto el background como también las animaciones. Estimo que esto generará que el peso del proyecto suba, pero espero que no afecte demasiado esto sobretodo en la descarga del archivo por parte de terceros para que pueda ser probado.
+
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
+
+Opino que merece la pena continuar porque es un proyecto que es único en su especie. Cuando lo pensé, sonaba bastante ambiocioso pero además bastante trabajólico. Sin embargo, tengo muy presente que todas las limitaciones están en la mente y uno puede hacer lo que desee con los proyectos que uno genere siempre y cuando haya una consecusión de objetivos a cumplir y existan avances. Además, hay muchas herramientas que existen hoy en día referentes a animación, incluso de acceso para cualquier presupuesto, pero he visto que no hay suficientes iniciativas que tengan estos soportes. Generalmente se trabaja en equipos para poder generar estas propuestas, sin embargo tengo la convicción de que es posible innovar no necesariamente con un equipo grande, o estando incluso sólo.
+
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
+A este proyecto pueden involiucrarse, una vez que gane consolidación, ilustradores para poder reemplazar las fotos de los lugares por dibujos para que haya concordancia por el carácter animado y ficticio de los personajes que son hechos a dibujo. Además de ello, pueden involucrarse periodistas y programadores para hilar la trama a límites insospechados y tener mayor alcance. Y por supuesto, contar con animadores cuyos estilos sean cartoon y 2D. 
 
 Referencias y recursos: 
 
