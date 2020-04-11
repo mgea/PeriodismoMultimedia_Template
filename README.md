@@ -16,7 +16,7 @@ Univesidad de Granada
 
 El producto final de esta experiencia, consiste en la creación de una novela gráfica interactiva mediante el programa Ren'py.
 
-**logotipo** :  https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view?usp=sharing  
+**logotipo** :  https://raw.githubusercontent.com/KyroAtelerix/Podenco-Tour/master/Captura%20de%20Pantalla%202020-04-02%20a%20la(s)%2017.20.24.png
 
 
 **Slogan** (frase motivadora/inspiradora): ¡Ponco, no te escapes a lo loco!
