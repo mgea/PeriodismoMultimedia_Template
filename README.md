@@ -103,7 +103,7 @@ Se creó un diagrama de flujos en software Twine para simular la interactividad 
 
 https://raw.githubusercontent.com/KyroAtelerix/Podenco-Tour/master/Captura%20de%20Pantalla%202020-04-11%20a%20la(s)%2022.31.27.png  
 
-Dicho diagrama puede visualizarse con dicho programa a través del archivo .txt siguiente:
+Dicho diagrama puede visualizarse con el programa Twine https://twinery.org/ a través del archivo .txt siguiente:
 
 https://github.com/KyroAtelerix/Podenco-Tour/blob/master/Podenco%20Tour%20fin.html
 
