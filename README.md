@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/KyroAtelerix/Podenco-Tour/master/Captura%20de%
 
 Dicho diagrama puede visualizarse con dicho programa a través del archivo .txt siguiente:
 
-https://github.com/KyroAtelerix/Podenco-Tour/blob/master/Podenco%20Tour.html
+https://github.com/KyroAtelerix/Podenco-Tour/blob/master/Podenco%20Tour%20fin.html
 
 
 
