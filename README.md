@@ -98,7 +98,12 @@ En tanto, en el video introductorio de animación fue utilizado en Toon Boom Har
 
 https://www.youtube.com/watch?v=QhEG615syqM 
 
-De momento no se han generado más elementos gráficos.
+
+Se creó un diagrama de flujos en software Twine para simular la interactividad y el desenlace de cada opción. 
+
+https://raw.githubusercontent.com/KyroAtelerix/Podenco-Tour/master/Captura%20de%20Pantalla%202020-04-11%20a%20la(s)%2022.31.27.png
+
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
