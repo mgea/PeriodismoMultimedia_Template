@@ -210,9 +210,9 @@ https://consigna.ugr.es/f/OJIsnoD4xIpK51d9/HistoriaFCD-1.0-all.zip
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
 * (...) 
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
+
+**PRESENTACIÓN DE PROYECTO EN FORMATO VIDEO** :
+
+https://drive.google.com/file/d/1s70xGJyQAfx7emyyemjWylJllgjzZQT2/view?usp=sharing 
 
 
