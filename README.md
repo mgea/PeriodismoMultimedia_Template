@@ -58,6 +58,8 @@ Youtube (aquí se subirá trailer promocional o introducción, es una cuenta de 
 
 https://www.youtube.com/kyroatelerix
 
+Estos medios descritos actualmente no registran actividad, considerando que se hará a futuro más adelante en cuanto las piezas gráficas y la novela visual esté cumplida. 
+
 --- 
 
 ### Metodología
@@ -159,6 +161,8 @@ Una vez terminado todo el proceso (en fase inicial sólo se contemplan 3 pueblos
 
 Después de la fase de evaluación, se seguirá este proyecto hasta completar al menos 6 pueblos, con más personas y más animaciones, aprovechando la etapa de confinamiento que hay en España y poder lanzar este producto para que cualquier persona pueda disfrutarlo en algún rato libre. 
 
+En cuanto se de marcha oficial, las redes socilaes comenzarán a actuar haciendo un llamado general a que la aventura comienza y se irán adhosando fotografías e imágenes de los pueblos junto a extractos que alimentarán la historia, además de ediciones de fotografías donde se incluya a Ponco en imágenes de lugares y la gente deba adivinar dónde está. considerando que se hará a futuro más adelante en cuanto las piezas gráficas y la novela visual esté cumplida. 
+
 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
 
@@ -170,7 +174,7 @@ Otro problema consta de crear las animaciones, puesto que demanda muchisaimo tie
 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 
-Opino que merece la pena continuar porque es un proyecto que es único en su especie. Cuando lo pensé, sonaba bastante ambiocioso pero además bastante trabajólico. Sin embargo, el tamaño del proyecto es relativamente pequeño y se publicará una fase experimental como producto final, así que se podrá cumplir. Además, hay muchas herramientas que existen hoy en día referentes a animación, incluso de acceso para cualquier presupuesto, pero he visto que no hay suficientes iniciativas que tengan estos soportes. Generalmente se trabaja en equipos para poder generar estas propuestas, sin embargo tengo la convicción de que es posible innovar no necesariamente con un equipo grande, o estando incluso sólo.
+Opino que merece la pena continuar porque es un proyecto que es único en su especie. Cuando lo pensé, sonaba bastante ambiocioso pero además bastante trabajólico. Sin embargo, el tamaño del proyecto es relativamente pequeño y se publicará una fase experimental como producto final, así que se podrá cumplir. Además, hay muchas herramientas que existen hoy en día referentes a animación, incluso de acceso para cualquier presupuesto, pero he visto que no hay suficientes iniciativas que tengan estos soportes. 
 
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
@@ -181,6 +185,8 @@ Además, considero que el proyecto puede resultar de mucho interés al mezclar c
 Dada la temática y rescate de la identidad local mezclando procesos creativos, el proyecto tiene potencial para postular a fondos de financiamiento públicos.
 
 Este proyecto puede escalar a tal punto a futuro si se gana algún fondo de creación audiovisual, que incluso pueden involucrarse camarógrafos profesionales y especialistas en efectos especiales, además de dibujantes con trayectoria.
+
+No tan sólo puede mostrarse interés por parte de artistas o creativos para hacer llegar el proyecto a una fuente de financiamiento estatal, sino que algún medio de comunicación local puede hacer eco de este proyecto ayudar en la difusión o incluso ideación, placement y creación de merchandesing.
 
 Referencias y recursos: 
 
