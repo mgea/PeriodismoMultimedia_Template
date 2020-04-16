@@ -11,7 +11,7 @@ Univesidad de Granada
 **PRESENTACIÓN DE PROYECTO EN FORMATO VIDEO** :
 
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=vUyEVNlbxTQ)
+[![**PRESENTACIÓN DE PROYECTO EN FORMATO VIDEO**](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=vUyEVNlbxTQ)
 
 https://drive.google.com/file/d/1s70xGJyQAfx7emyyemjWylJllgjzZQT2/view?usp=sharing
 
