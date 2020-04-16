@@ -128,6 +128,9 @@ https://github.com/KyroAtelerix/Podenco-Tour/blob/master/Podenco%20Tour%20fin.ht
 
 
 
+<img src="https://media.giphy.com/media/TF5VVKRL7lNjoVueb7/giphy.gif" />
+
+
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
