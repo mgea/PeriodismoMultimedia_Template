@@ -11,7 +11,7 @@ Univesidad de Granada
 **PRESENTACIÓN DE PROYECTO EN FORMATO VIDEO** :
 
 
-[![**PRESENTACIÓN DE PROYECTO EN FORMATO VIDEO**](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=vUyEVNlbxTQ)
+[![**PRESENTACIÓN DE PROYECTO EN FORMATO VIDEO**](https:https://raw.githubusercontent.com/KyroAtelerix/Podenco-Tour/master/Captura%20de%20Pantalla%202020-04-16%20a%20la(s)%2016.15.50.png)](https://www.youtube.com/watch?v=vUyEVNlbxTQ)
 
 https://drive.google.com/file/d/1s70xGJyQAfx7emyyemjWylJllgjzZQT2/view?usp=sharing
 
