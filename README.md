@@ -128,9 +128,6 @@ https://github.com/KyroAtelerix/Podenco-Tour/blob/master/Podenco%20Tour%20fin.ht
 
 
 
-<img src="https://media.giphy.com/media/TF5VVKRL7lNjoVueb7/giphy.gif" />
-
-
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
@@ -173,6 +170,9 @@ Otro problema consta de crear las animaciones, puesto que demanda muchisaimo tie
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 
 Opino que merece la pena continuar porque es un proyecto que es único en su especie. Cuando lo pensé, sonaba bastante ambiocioso pero además bastante trabajólico. Sin embargo, el tamaño del proyecto es relativamente pequeño y se publicará una fase experimental como producto final, así que se podrá cumplir. Además, hay muchas herramientas que existen hoy en día referentes a animación, incluso de acceso para cualquier presupuesto, pero he visto que no hay suficientes iniciativas que tengan estos soportes. 
+
+Animación de primera escena de novela visual: llegada de Ponco y encuentro con jugador
+<img src="https://media.giphy.com/media/TF5VVKRL7lNjoVueb7/giphy.gif" />
 
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
