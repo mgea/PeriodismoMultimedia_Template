@@ -76,15 +76,25 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
+Es relevante dotar de protagonismo a los pueblos de Granada, puesto que esconden una serie de historias y datos que son relevantes. Realizar esta novela gráfica potenciará la identidad local de los pueblos que circundan Granada Capital y aportará un valor turístico y educativo que potenciará la cultura. 
+
+En específico, el proyecto contempla el recorrido de almenos 3 pueblos (Víznar, Jun y Ogíjares) con partida en Granada.  <img src="https://raw.githubusercontent.com/KyroAtelerix/Podenco-Tour/master/Captura%20de%20Pantalla%202020-04-16%20a%20la(s)%2015.52.44.png" />
+
+Algunos aspectos que se abordarán sobre estos pueblos en los que la audiencia podrá disfrutar, consta por ejemplo de una trama de la novela visual en que los protagonistas buscan a Ponco en Víznar y se topan con la desconocida historia del cuadro de la Crucifixión de autoría de Pedro Machuca, pintor y arquitecto renacentista español que ha sido vinculado como discípulo del mismísimo del célebre artistas Miguel Ángel.
+
+Otro aspecto llamativo que se abordará en otro paraje de la historia consta de la descripción del club de Power Chair "Los Leones de la Alhambra" que entrenan en el pabellón deportivo de Ogíjares, como una forma de conocer la disciplina de fútbol sala adaptado para silla de ruedas y uno de los pioneros en llevar a cabo esta actividad en Andalucía y España.
+
+
 **Motivación de la propuesta** 
 
-* Hacer una propuesta de estas características resultará interesante para relevar la importancia de la identidad local, junto a la puesta en valor de aquellos inmuebles icónicos de cada área urbana que integra la provincia, del cuál se tienen poco conocimiento. Esto se llevará a cabo mediante una narrativa interactiva que tendrá un fin lúdico, a modo de presentar las informaciones de un modo más amigable y simpático, aprovechando los recursos audiovisuales y tecnológicos que existen. 
+Hacer una propuesta de estas características resultará interesante para relevar la importancia de la identidad local, junto a la puesta en valor de aquellos inmuebles icónicos de cada área urbana que integra la provincia, del cuál se tienen poco conocimiento. Esto se llevará a cabo mediante una narrativa interactiva que tendrá un fin lúdico, a modo de presentar las informaciones de un modo más amigable y simpático, aprovechando los recursos audiovisuales y tecnológicos que existen.
+
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
-El proyecto está pensando para el área infantil-juvenil, españoles como también personas de otros países que estén pensando en visitar Granada. 
+El proyecto está pensando para el área infantil-juvenil, españoles como también personas de otros países que estén pensando en visitar Granada. Por esto, está pensando que forme parte del material educativo o de difusión para colegios.
 
-En tiempos de confinamiento, será útil también a modo de distracción y aprender sobre el entorno granadino. 
+Ademásm, en tiempos de confinamiento será útil también a modo de distracción y aprender sobre el entorno granadino. 
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
