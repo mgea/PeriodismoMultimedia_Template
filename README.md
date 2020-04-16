@@ -22,6 +22,7 @@ El producto final de esta experiencia, consiste en la creación de una novela gr
 
 **logotipo** :  https://raw.githubusercontent.com/KyroAtelerix/Podenco-Tour/master/Captura%20de%20Pantalla%202020-04-02%20a%20la(s)%2017.20.24.png
 
+<img src="https://raw.githubusercontent.com/KyroAtelerix/Podenco-Tour/master/Captura%20de%20Pantalla%202020-04-02%20a%20la(s)%2017.20.24.png" />
 
 **Slogan** (frase motivadora/inspiradora): ¡Ponco, no te escapes a lo loco!
 
