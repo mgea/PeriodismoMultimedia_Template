@@ -23,14 +23,15 @@ Univesidad de Granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2024
 
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
-* Twitter 
-* ... 
+* :octocat: (github url) 
+* ArcWeave:
+* Protopie:
+*  
 
 
 
