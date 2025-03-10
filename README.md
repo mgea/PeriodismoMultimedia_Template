@@ -2,9 +2,9 @@
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
-Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
-Master de Nuevos medios interactivos y periodismo multimedia
-Facultad de Comunicación y Documentación
+Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia) <br>
+[Master de Nuevos medios interactivos y periodismo multimedia](https://masteres.ugr.es/newmedia-periodismo-multimedia/) <br>
+Facultad de Comunicación y Documentación <br>
 Univesidad de Granada  
 
 ----
@@ -123,14 +123,15 @@ Referencias y recursos:
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
 * (...) 
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
 
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > , 202X
+
+[Facultad de Comunicación y Documentación](http://fcd.ugr.es)
+
+Universidad de Granada
 
 
 
