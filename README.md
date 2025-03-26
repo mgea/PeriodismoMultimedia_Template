@@ -45,7 +45,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
@@ -69,6 +69,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 ![gato](fedecat.png)
+
+* Inspiración (moodboard, imagen) - usando miro/milanote o https://excalidraw.com/
 
 
 ### Etapa 2: Prototipar / productos 
