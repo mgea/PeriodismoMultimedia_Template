@@ -70,7 +70,10 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ![gato](fedecat.png)
 
-* Inspiración (moodboard, imagen) - usando miro/milanote o https://excalidraw.com/
+**Inspiración/moodboard**
+
+> (captura de imagen) hecha con miro/milanote o https://excalidraw.com/ 
+
 
 
 ### Etapa 2: Prototipar / productos 
